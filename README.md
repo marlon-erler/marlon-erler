@@ -15,7 +15,8 @@ Networks, communication, etc
 UI Frameworks etc
 ---
 - **[Bloatless React](https://github.com/marlon-erler/bloatless-react) (bun/TS), ARCHIVED:** Unbloated alternative to React. Merged into another project, so this repo is archived
-- **[Fundament](https://github.com/marlon-erler/fundament) (bun/TS), ARCHIVED:** CSS foundation and components for PWAs. Merged into another project, so this repo is archived
+- **[Fundament (repo)](https://github.com/marlon-erler/fundament) (bun/TS), ARCHIVED:** CSS foundation and components for PWAs. Merged into another project, so this repo is archived
+- **[PWA-Fundament (org)](https://github.com/orgs/pwa-fundament/) (bun/TS)** Complete base for PWAs, replaced the two projects above
 - **[material-icongen](https://github.com/marlon-erler/material-icongen) (bun/TS):** Basic icon generator using material symbols
 
 Small projects

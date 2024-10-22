@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋
+===
 
-<!--
-**marlon-erler/marlon-erler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mainly use bun/TypeScript to build network/infrastructure-related projects.
 
-Here are some ideas to get you started:
+Here's a somewhat organized list of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Networks, communication, etc
+---
+- **Universal Decentralized Network (UDN), ARCHIVED:**
+  - **[Server](https://github.com/marlon-erler/universal-decentralized-network) (bun/TS):** Check this repo for documentation
+  - **[Frontend library](https://github.com/marlon-erler/udn-frontend)**
+  - **[Comms](https://github.com/marlon-erler/udn-comms) (PWA):** Messaging and Task management app for UDN
+   
+UI Frameworks etc
+---
+- **[Bloatless React](https://github.com/marlon-erler/bloatless-react) (bun/TS), ARCHIVED:** Unbloated alternative to React. Merged into another project, so this repo is archived
+- **[Fundament](https://github.com/marlon-erler/fundament) (bun/TS), ARCHIVED:** CSS foundation and components for PWAs. Merged into another project, so this repo is archived
+- **[material-icongen](https://github.com/marlon-erler/material-icongen) (bun/TS):** Basic icon generator using material symbols
+
+Small projects
+---
+- **[MyWiki](https://github.com/marlon-erler/MyWiki) (Node.js/JS):** Minimalist and customizable wiki builder based on markdown
+
+School stuff (for presentations etc)
+---
+- **[media-competence](https://github.com/marlon-erler/media-competence) (bun/TS):** Presentation on media competence and digital safety (English)
+- **[Ariovist](https://github.com/marlon-erler/ariovist/blob/main/README.md) (Website):** Interactive presentation on Ariovist (Latin)
+
+Random junk
+---
+- **[Screenlight](https://github.com/marlon-erler/screenlight) (bun/TS):** Serves a solid-color webpage to use screens as RGB lamp
+- **[UniversalCode](https://github.com/marlon-erler/UniversalCode) (bun/TS), ARCHIVED**: Experimental programming languages that can compile to shell and TS

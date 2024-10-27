@@ -7,6 +7,8 @@ Here's a somewhat organized list of my projects:
 
 Networks, communication, etc
 ---
+- **Open Messaging Network (OMN), STILL UNDER DEVELOPMENT:**
+  - **[Org](https://github.com/openMessagingNetwork/)** 
 - **Universal Decentralized Network (UDN), ARCHIVED:**
   - **[Server](https://github.com/marlon-erler/universal-decentralized-network) (bun/TS):** Check this repo for documentation
   - **[Frontend library](https://github.com/marlon-erler/udn-frontend)**

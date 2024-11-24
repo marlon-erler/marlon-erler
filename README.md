@@ -1,7 +1,7 @@
 Hi there 👋
 ===
 
-I mainly use bun/TypeScript to build network/infrastructure-related projects.
+I build random stuff I'm temporarily interested in until I forget about it. Mostly using Bun/TypeScript.
 
 Here's a somewhat organized list of my projects:
 

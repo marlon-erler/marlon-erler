@@ -7,12 +7,10 @@ Here's a somewhat organized list of my projects:
 
 Networks, communication, etc
 ---
-- **Open Messaging Network (OMN), STILL UNDER DEVELOPMENT:**
-  - **[Org](https://github.com/openMessagingNetwork/)** 
-- **Universal Decentralized Network (UDN), ARCHIVED:**
-  - **[Server](https://github.com/marlon-erler/universal-decentralized-network) (bun/TS):** Check this repo for documentation
-  - **[Frontend library](https://github.com/marlon-erler/udn-frontend)**
-  - **[Comms](https://github.com/marlon-erler/udn-comms) (PWA):** Messaging and Task management app for UDN
+- **Universal Decentralized Network (UDN)**
+  - **[Server](https://github.com/marlon-erler/udn) (bun/TS):** Check this repo for documentation
+  - **[Coordination Tool (CT)](https://github.com/marlon-erler/ct) (PWA):** Messaging and Task management app for UDN
+  - **[Comms (Discontinued for CT)](https://github.com/marlon-erler/udn-comms) (PWA):** Messaging and Task management app for UDN
    
 UI Frameworks etc
 ---
